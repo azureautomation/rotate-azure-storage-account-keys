@@ -1,0 +1,20 @@
+{
+    "Author": "Nemanja.Jovic",
+    "ContentSize": 2290,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/rotate-azure-storage-account-keys/master/Switch-AzStorageAccountKey.ps1",
+    "DownloadCount": 640,
+    "Id": "Rotate-Azure-Storage-7f440ae7",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 393,
+    "RaterCount": 2,
+    "Rating": 5.0,
+    "ReleaseDate": "2019-7-5T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Powershell function which is intended to rotate the storage account keys and store them as a secure string in the key vault, in the form of the secret.Keeping security in mind, our secrets are worthless if they are rotated frequently, which is giving the hacker very less attack f",
+    "Title": "Rotate Azure Storage Account Keys",
+    "UpdatedDate": "2019-7-5T00:00:00",
+    "Url": "https://github.com/azureautomation/rotate-azure-storage-account-keys",
+    "UserTags": ""
+}
